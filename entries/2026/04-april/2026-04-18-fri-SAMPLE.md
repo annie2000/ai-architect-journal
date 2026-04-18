@@ -3,9 +3,6 @@
 **Time spent:** 17 min
 **Source type:** Blog
 
-> ⚠️ This is a SAMPLE entry to show what a completed entry looks like. Delete this file or keep it as reference.
-
----
 
 ## Source
 
